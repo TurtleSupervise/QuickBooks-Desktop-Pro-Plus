@@ -1,0 +1,23 @@
+{
+  "repo": "quickbooks-desktop-pro-plus",
+  "product": "QuickBooks Desktop Pro Plus",
+  "kind": "productivity",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "accounting",
+  "topics": [
+    "quickbooks-desktop",
+    "item-list-desk",
+    "bill-pay-windows",
+    "quickbooks-2026",
+    "how-to-install-quickbooks",
+    "quickbooks-desktop-package",
+    "pnl-tax-suite",
+    "customer-account-tools",
+    "pro-plus-complete",
+    "quickbooks-pro-plus"
+  ],
+  "site": "toolix.me"
+}
